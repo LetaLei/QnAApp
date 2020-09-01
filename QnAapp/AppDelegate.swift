@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  QnAapp
 //
-//  Created by max on 2020/9/1.
+//  Created by leta on 2020/9/1.
 //
 
 import UIKit
